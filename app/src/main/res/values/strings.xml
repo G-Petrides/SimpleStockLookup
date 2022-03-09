@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Lookup</string>
+    <string name="output_frame">…</string>
+    <string name="button_send">Send</string>
+    <string name="button_reset">Reset</string>
+    <string name="table_head_SKU">SKU</string>
+    <string name="table_head_Title">Title</string>
+    <string name="table_head_Qty">Qty</string>
+    <string name="table_head_IMG">Img</string>
+</resources>
